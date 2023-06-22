@@ -1,4 +1,4 @@
-# Django-Rest-Todo-BBS
+# Django-Todo-BBS
 Python Django를 활용해 Todo List 기능을 내포하는 프로젝트를 진행하였습니다.
 
 # Develope-Enviroment
